@@ -9,7 +9,7 @@ $ pkg install imagemagick
 $ pkg install nodejs
 $ git clone https://github.com/Adhwa9981/wan-bot-9981
 $ cd wan-bot-9981
-$ npm install
+$ npm i
 ```
 ###### Run
 ```bash
