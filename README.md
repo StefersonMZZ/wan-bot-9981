@@ -1,17 +1,39 @@
-# Adhwa9981
-Simple WhatsApp Robot
+# wabot-aq
+Simple WhatsApp Bot
 
-### TYPE IN TERMUX
+### FOR TERMUX USER
 ```bash
-$ pkg install git
-$ pkg install ffmpeg
-$ pkg install imagemagick
-$ pkg install nodejs
-$ git clone https://github.com/Adhwa9981/wan-bot-9981
-$ cd wan-bot-9981
-$ npm i
+> pkg update && pkg upgrade
+> pkg install git -y
+> pkg install nodejs -y
+> pkg install ffmpeg -y
+> pkg install imagemagick -y
+> git clone https://github.com/Nurutomo/wabot-aq
+> cd wabot-aq
+> npm install
 ```
 ###### Run
 ```bash
-$ node index.js
+> node . [<session name>] (session name is optional)
 ```
+
+---------
+
+### FOR WINDOWS/VPS/RDP USER
+* Download And Install Git [`Click Here`](https://git-scm.com/downloads) <br>
+* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download) <br>
+* Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
+* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
+```bash
+> git clone https://github.com/Nurutomo/wabot-aq
+> cd wabot-aq
+> npm install
+```
+###### Run
+```bash
+> node index.js
+```
+--------------
+
+##### Powered By : [`XTEAM`](https://api.xteam.xyz) 
+##### Author / Creator : [`Nurutomo`](https://GitHub.com/Nurutomo) 
